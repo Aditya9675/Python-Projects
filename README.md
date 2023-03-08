@@ -1,2 +1,2 @@
 # Python-Projects
-This repo.  Contains All Python projects .
+This repo.  Contains Some Python projects.
